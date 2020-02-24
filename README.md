@@ -43,6 +43,6 @@ The growth of the radius of the spiral at a certain triangle n is
 
 
 <img src="https://github.com/muheydari/SpiralofTheodorus/blob/master/Spiral17.PNG?raw=true" alt="Triangle" height="200" width="200" >
-<img src="https://github.com/muheydari/SpiralofTheodorus/blob/master/Spiral17.PNG?raw=true" alt="Triangle" >
+<img src="https://github.com/muheydari/SpiralofTheodorus/blob/master/SpiralOfTheodorus3D.PNG?raw=true" alt="Triangle" >
 
 email me to : muheydari@gmail.com
